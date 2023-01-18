@@ -35,6 +35,8 @@ Configuration Options
    Path to a touch icon, should be 152x152 or larger.
 ``google_analytics_account``
    Set to enable google analytics.
+``microanalytics_account``
+   Set to enable microanalytics.io
 ``repo_url``
    Set the repo url for the link to appear.
 ``repo_name``

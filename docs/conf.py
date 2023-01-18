@@ -94,6 +94,7 @@ html_theme_options = {
     "repo_url": "https://github.com/bashtage/sphinx-material/",
     "repo_name": "Material for Sphinx",
     "google_analytics_account": "UA-XXXXX",
+    "microanalytics_account": "XXXXXXXXXX",
     "html_minify": False,
     "html_prettify": True,
     "css_minify": True,
